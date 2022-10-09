@@ -11,6 +11,9 @@ Functionalities:
 2. Users are able to add money.
 3. Users are able to withdraw money.
 4. User Interface available.
+5. Users are able to see the account holder.
+6. Users are able to see the account number.
+7. Users are able to see the bank name.
 
 Technologies used: 
 Java and frameworks related to Java and MySql database.
